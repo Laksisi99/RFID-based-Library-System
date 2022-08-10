@@ -3,7 +3,7 @@ This is a application which is use to store library records automatically. This 
 
 This is a RFID based library automation system.
 This system have 2 parts, one for students and one for librarians.
-I used JAVA,MySQL and RFID technologies to make this sysytem.
+I used JAVA,MySQL and RFID technologies to make this system.
 Also I used RFID Readers & RFID Cards,
  -RFID Cards as Membership_ID (smart ID)
 In Librarian Side.
