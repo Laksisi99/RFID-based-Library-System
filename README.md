@@ -3,11 +3,11 @@
 <p id="description">This is a application which is use to store library records automatically. This is a RFID based system with Java and MySQL. There are two parts of the system which are one for librarians and one for students.
 </p>
 
-*This is a RFID based library automation system.
-*This system have 2 parts, one for students and one for librarians.
-*I used JAVA,MySQL and RFID technologies to make this system.
-*Also I used RFID Readers & RFID Cards,
- <p>RFID Cards as Membership_ID (smart ID)</p>
+<li>This is a RFID based library automation system.</li>
+<li>This system have 2 parts, one for students and one for librarians.</li>
+<li>I used JAVA,MySQL and RFID technologies to make this system.</li>
+<li>Also I used RFID Readers & RFID Cards,</li>
+    * RFID Cards as Membership_ID (smart ID)</p>
   
   
 <h2>🧐 Features</h2>
